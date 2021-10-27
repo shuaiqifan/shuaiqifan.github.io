@@ -105,4 +105,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/shuaiqifan/shuaiqifan.github.io.git
-  branch: main
+  branch: master
